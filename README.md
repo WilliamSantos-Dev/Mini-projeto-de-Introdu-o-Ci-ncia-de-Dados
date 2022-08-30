@@ -32,8 +32,7 @@ valor_1 dado que característica_2 possui o valor valor_2.
 
 - Crie o método probabilidade_apriori_intervalo((característica, valor), (característica,
 (inicio, fim))) ou probabilidade_apriori_intervalo((característica, (início, fim)),
-(característica, valor)) ou probabilidade_apriori_intervalo((característica, (início, fim)),
-
+(característica, valor)) ou probabilidade_apriori_intervalo((característica, (início, fim)), 
 (característica, (início, fim))) que permite o calculo - para os dados carregados em
 memória - da probabilidade condicional considerando intervalos numéricos.
 
